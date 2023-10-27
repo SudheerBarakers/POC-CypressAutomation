@@ -27,16 +27,6 @@ cy.visit("https://rahulshettyacademy.com/seleniumPractise/#/cart")
 
 cy.contains('Place Order').click()
 
-
-
-
-
-
-
-
-
-
-
 //fixture
 
 }  )
